@@ -68,6 +68,9 @@
               </div>
             </form>
           </div>
+          <h3>Admin: admin@admin.com admin<br/>
+          Oglašivač: cenosco@cenosco.com cenosco<br/>
+          Korisnik: fake@emaill.com fakeuser</h3>
         </div>
       </div>
       <div
